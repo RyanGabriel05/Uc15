@@ -1,0 +1,12 @@
+D:\Ryan\Senai\UC15\EncotroRemoto\ProjetoTesteFST1\ProjetoTesteFST1\bin\Debug\net6.0\ProjetoTesteFST1.deps.json
+D:\Ryan\Senai\UC15\EncotroRemoto\ProjetoTesteFST1\ProjetoTesteFST1\bin\Debug\net6.0\ProjetoTesteFST1.dll
+D:\Ryan\Senai\UC15\EncotroRemoto\ProjetoTesteFST1\ProjetoTesteFST1\bin\Debug\net6.0\ProjetoTesteFST1.pdb
+D:\Ryan\Senai\UC15\EncotroRemoto\ProjetoTesteFST1\ProjetoTesteFST1\obj\Debug\net6.0\ProjetoTesteFST1.csproj.AssemblyReference.cache
+D:\Ryan\Senai\UC15\EncotroRemoto\ProjetoTesteFST1\ProjetoTesteFST1\obj\Debug\net6.0\ProjetoTesteFST1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ryan\Senai\UC15\EncotroRemoto\ProjetoTesteFST1\ProjetoTesteFST1\obj\Debug\net6.0\ProjetoTesteFST1.AssemblyInfoInputs.cache
+D:\Ryan\Senai\UC15\EncotroRemoto\ProjetoTesteFST1\ProjetoTesteFST1\obj\Debug\net6.0\ProjetoTesteFST1.AssemblyInfo.cs
+D:\Ryan\Senai\UC15\EncotroRemoto\ProjetoTesteFST1\ProjetoTesteFST1\obj\Debug\net6.0\ProjetoTesteFST1.csproj.CoreCompileInputs.cache
+D:\Ryan\Senai\UC15\EncotroRemoto\ProjetoTesteFST1\ProjetoTesteFST1\obj\Debug\net6.0\ProjetoTesteFST1.dll
+D:\Ryan\Senai\UC15\EncotroRemoto\ProjetoTesteFST1\ProjetoTesteFST1\obj\Debug\net6.0\refint\ProjetoTesteFST1.dll
+D:\Ryan\Senai\UC15\EncotroRemoto\ProjetoTesteFST1\ProjetoTesteFST1\obj\Debug\net6.0\ProjetoTesteFST1.pdb
+D:\Ryan\Senai\UC15\EncotroRemoto\ProjetoTesteFST1\ProjetoTesteFST1\obj\Debug\net6.0\ref\ProjetoTesteFST1.dll
