@@ -1,0 +1,12 @@
+D:\Ryan\Senai\UC15\Atividades\NutriVitta\NutriVitta\bin\Debug\net6.0\NutriVitta.deps.json
+D:\Ryan\Senai\UC15\Atividades\NutriVitta\NutriVitta\bin\Debug\net6.0\NutriVitta.dll
+D:\Ryan\Senai\UC15\Atividades\NutriVitta\NutriVitta\bin\Debug\net6.0\NutriVitta.pdb
+D:\Ryan\Senai\UC15\Atividades\NutriVitta\NutriVitta\obj\Debug\net6.0\NutriVitta.csproj.AssemblyReference.cache
+D:\Ryan\Senai\UC15\Atividades\NutriVitta\NutriVitta\obj\Debug\net6.0\NutriVitta.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ryan\Senai\UC15\Atividades\NutriVitta\NutriVitta\obj\Debug\net6.0\NutriVitta.AssemblyInfoInputs.cache
+D:\Ryan\Senai\UC15\Atividades\NutriVitta\NutriVitta\obj\Debug\net6.0\NutriVitta.AssemblyInfo.cs
+D:\Ryan\Senai\UC15\Atividades\NutriVitta\NutriVitta\obj\Debug\net6.0\NutriVitta.csproj.CoreCompileInputs.cache
+D:\Ryan\Senai\UC15\Atividades\NutriVitta\NutriVitta\obj\Debug\net6.0\NutriVitta.dll
+D:\Ryan\Senai\UC15\Atividades\NutriVitta\NutriVitta\obj\Debug\net6.0\refint\NutriVitta.dll
+D:\Ryan\Senai\UC15\Atividades\NutriVitta\NutriVitta\obj\Debug\net6.0\NutriVitta.pdb
+D:\Ryan\Senai\UC15\Atividades\NutriVitta\NutriVitta\obj\Debug\net6.0\ref\NutriVitta.dll

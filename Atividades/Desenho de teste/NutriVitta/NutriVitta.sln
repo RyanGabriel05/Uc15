@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NutriVitta", "NutriVitta\NutriVitta.csproj", "{9AE81FF1-51CB-4D58-88EC-D3A952DC0FD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestXUnit", "TestXUnit\TestXUnit.csproj", "{B7085FE5-E806-4EFD-93AE-96586F98EB7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AE81FF1-51CB-4D58-88EC-D3A952DC0FD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AE81FF1-51CB-4D58-88EC-D3A952DC0FD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AE81FF1-51CB-4D58-88EC-D3A952DC0FD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AE81FF1-51CB-4D58-88EC-D3A952DC0FD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7085FE5-E806-4EFD-93AE-96586F98EB7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7085FE5-E806-4EFD-93AE-96586F98EB7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7085FE5-E806-4EFD-93AE-96586F98EB7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7085FE5-E806-4EFD-93AE-96586F98EB7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2D8B708-2BFF-41C3-A3C6-D0350FE66B16}
+	EndGlobalSection
+EndGlobal
